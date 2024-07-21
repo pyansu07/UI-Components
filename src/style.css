@@ -1,0 +1,17 @@
+/* src/styles.css */
+.basic-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .basic-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .basic-input {
+    padding: 10px;
+    margin: 5px 0;
+  }
+  
